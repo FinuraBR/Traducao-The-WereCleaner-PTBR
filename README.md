@@ -34,7 +34,7 @@ A instalação exige que você abra os arquivos `assets` originais do jogo e imp
 2. Vá até a pasta do seu jogo (`The WereCleaner_Data`) e abra o arquivo correspondente (Ex: `level0`).
 3. Com o arquivo aberto, clique na aba superior em **View > Search by Name** (ou pressione `Ctrl+A` para selecionar tudo na lista).
 4. No menu lateral direito, clique no botão **Import Dump**.
-5. ⚠️ **MUITO IMPORTANTE:** Se o programa perguntar o formato do arquivo, **selecione JSON** (e não TXT).
+5. ⚠️ **MUITO IMPORTANTE:** Se o programa perguntar o formato do arquivo, **selecione JSON** (e não TXT). **(apenas o `level0` está em TXT)**
 6. O programa vai pedir para você selecionar uma pasta. Escolha a pasta `3_Traduzidos/level0` que você baixou do meu GitHub. O programa vai injetar automaticamente os textos.
 7. Vá em **File > Save** (ou `Save All`) e salve por cima do arquivo original.
 8. **Repita esse processo** para os outros arquivos (abrindo o `level1` no UABEA e importando os Dumps da pasta `3_Traduzidos/level1`, e assim por diante).
