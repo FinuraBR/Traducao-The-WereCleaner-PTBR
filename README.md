@@ -1,4 +1,4 @@
-# 🇧🇷 Tradução Parcial / Open-Source - The WereCleaner (PT-BR)
+# Tradução Parcial / Open-Source - The WereCleaner (PT-BR)
 
 **Status do Projeto:** ⚠️ Pausado / Incompleto (Jogável)
 **Iniciado por:** ツFinuraBR
